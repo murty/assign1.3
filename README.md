@@ -1,4 +1,4 @@
-public static void main(string args[])
+public static void main(string[] args)
 {
 long c=28.85;
 double b=37.9;
